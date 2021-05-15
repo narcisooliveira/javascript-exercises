@@ -23,4 +23,4 @@ const repeatString = function(string, times) {
     }
 }
 
-module.exports = repeatString('hey', 3)
+module.exports = repeatString
